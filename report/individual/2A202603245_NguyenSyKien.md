@@ -7,7 +7,7 @@
 - Họ tên: Nguyễn Sỹ Kiên
 - MSSV: 2A202603245
 - Mã đề (A/B/C): B
-- Email: nguyenkien18102004@gmail.com
+- Email: 26ai.kienns@vinuni.edu.vn
 - Link repository: https://github.com/justAchillGuy8386/K5-L2-Day05-NguyenSyKien-2A202603245-MOTTracking.git
 - Giờ bắt đầu: 16:30
 - Giờ kết thúc: 18:15
@@ -161,3 +161,4 @@ Số frame in theo CVAT (bắt đầu từ 0). Trong gt.txt, frame_id = frame CV
 - Bộ dữ liệu `MOT17-09` (Milan et al., 2016, MOTChallenge), giấy phép CC BY-NC-SA 3.0.
 - Tài liệu hướng dẫn thực hành Lab Ngày 5, CVAT Documentation & Guideline môn học.
 - Trợ lý AI (Google DeepMind / Antigravity) được sử dụng để hỗ trợ tra cứu cú pháp công thức MOTA/IDF1, phân tích định dạng file xuất của CVAT và chạy script kiểm tra tự động `check_submission.py`.
+
